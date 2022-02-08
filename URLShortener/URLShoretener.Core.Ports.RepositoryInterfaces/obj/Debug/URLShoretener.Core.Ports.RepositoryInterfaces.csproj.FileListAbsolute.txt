@@ -1,0 +1,12 @@
+C:\Users\Milica\Desktop\interview\URLShortener\URLShoretener.Core.Ports.RepositoryInterfaces\bin\Debug\URLShoretener.Core.Ports.RepositoryInterfaces.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShoretener.Core.Ports.RepositoryInterfaces\bin\Debug\URLShoretener.Core.Ports.RepositoryInterfaces.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShoretener.Core.Ports.RepositoryInterfaces\obj\Debug\URLShoretener.Core.Ports.RepositoryInterfaces.csproj.AssemblyReference.cache
+C:\Users\Milica\Desktop\interview\URLShortener\URLShoretener.Core.Ports.RepositoryInterfaces\obj\Debug\URLShoretener.Core.Ports.RepositoryInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\interview\URLShortener\URLShoretener.Core.Ports.RepositoryInterfaces\obj\Debug\URLShoretener.Core.Ports.RepositoryInterfaces.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShoretener.Core.Ports.RepositoryInterfaces\obj\Debug\URLShoretener.Core.Ports.RepositoryInterfaces.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShoretener.Core.Ports.RepositoryInterfaces\bin\Debug\URLShortener.Core.Model.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShoretener.Core.Ports.RepositoryInterfaces\bin\Debug\EntityFramework.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShoretener.Core.Ports.RepositoryInterfaces\bin\Debug\URLShortener.Core.Model.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShoretener.Core.Ports.RepositoryInterfaces\bin\Debug\URLShortener.Core.Model.dll.config
+C:\Users\Milica\Desktop\interview\URLShortener\URLShoretener.Core.Ports.RepositoryInterfaces\bin\Debug\EntityFramework.xml
+C:\Users\Milica\Desktop\interview\URLShortener\URLShoretener.Core.Ports.RepositoryInterfaces\obj\Debug\URLShoretener.Core.Ports.RepositoryInterfaces.csproj.CopyComplete

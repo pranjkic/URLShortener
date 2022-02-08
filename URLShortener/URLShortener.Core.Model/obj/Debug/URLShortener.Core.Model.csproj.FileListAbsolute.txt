@@ -1,0 +1,12 @@
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Model\bin\Debug\URLShortener.Core.Model.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Model\bin\Debug\URLShortener.Core.Model.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Model\obj\Debug\URLShortener.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Model\obj\Debug\URLShortener.Core.Model.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Model\obj\Debug\URLShortener.Core.Model.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Model\bin\Debug\URLShortener.Core.Model.dll.config
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Model\bin\Debug\EntityFramework.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Model\bin\Debug\EntityFramework.xml
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Model\obj\Debug\URLShortener.Core.Model.csproj.AssemblyReference.cache
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Model\obj\Debug\URLShortener.Core.Model.csproj.CopyComplete

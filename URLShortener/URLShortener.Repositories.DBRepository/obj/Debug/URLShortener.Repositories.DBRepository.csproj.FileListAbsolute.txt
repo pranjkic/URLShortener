@@ -1,0 +1,17 @@
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\bin\Debug\URLShortener.Repositories.DBRepository.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\bin\Debug\URLShortener.Repositories.DBRepository.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\bin\Debug\URLShoretener.Core.Ports.RepositoryInterfaces.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\bin\Debug\URLShoretener.Core.Ports.RepositoryInterfaces.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\obj\Debug\URLShortener.Repositories.DBRepository.csproj.AssemblyReference.cache
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\obj\Debug\URLShortener.Repositories.DBRepository.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\obj\Debug\URLShortener.Repositories.DBRepository.csproj.CopyComplete
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\obj\Debug\URLShortener.Repositories.DBRepository.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\obj\Debug\URLShortener.Repositories.DBRepository.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\bin\Debug\URLShortener.Repositories.DBRepository.dll.config
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\bin\Debug\EntityFramework.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\bin\Debug\URLShortener.Core.Model.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\bin\Debug\URLShortener.Core.Model.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\bin\Debug\URLShortener.Core.Model.dll.config
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\bin\Debug\EntityFramework.xml
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Repositories.DBRepository\bin\Debug\EntityFramework.SqlServer.xml

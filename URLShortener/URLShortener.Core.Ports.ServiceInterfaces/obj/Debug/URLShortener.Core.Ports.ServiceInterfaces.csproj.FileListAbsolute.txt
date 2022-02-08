@@ -1,0 +1,6 @@
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Ports.ServiceInterfaces\bin\Debug\URLShortener.Core.Ports.ServiceInterfaces.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Ports.ServiceInterfaces\bin\Debug\URLShortener.Core.Ports.ServiceInterfaces.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Ports.ServiceInterfaces\obj\Debug\URLShortener.Core.Ports.ServiceInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Ports.ServiceInterfaces\obj\Debug\URLShortener.Core.Ports.ServiceInterfaces.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Ports.ServiceInterfaces\obj\Debug\URLShortener.Core.Ports.ServiceInterfaces.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.Ports.ServiceInterfaces\obj\Debug\URLShortener.Core.Ports.ServiceInterfaces.csproj.AssemblyReference.cache

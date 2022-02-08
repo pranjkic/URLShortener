@@ -1,0 +1,16 @@
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\bin\Debug\URLShortener.Core.ServiceAdapters.Services.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\bin\Debug\URLShortener.Core.ServiceAdapters.Services.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\bin\Debug\URLShoretener.Core.Ports.RepositoryInterfaces.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\bin\Debug\URLShortener.Core.Ports.ServiceInterfaces.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\bin\Debug\URLShoretener.Core.Ports.RepositoryInterfaces.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\bin\Debug\URLShortener.Core.Ports.ServiceInterfaces.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\obj\Debug\URLShortener.Core.ServiceAdapters.Services.csproj.AssemblyReference.cache
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\obj\Debug\URLShortener.Core.ServiceAdapters.Services.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\obj\Debug\URLShortener.Core.ServiceAdapters.Services.csproj.CopyComplete
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\obj\Debug\URLShortener.Core.ServiceAdapters.Services.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\obj\Debug\URLShortener.Core.ServiceAdapters.Services.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\bin\Debug\URLShortener.Core.Model.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\bin\Debug\EntityFramework.dll
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\bin\Debug\URLShortener.Core.Model.pdb
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\bin\Debug\URLShortener.Core.Model.dll.config
+C:\Users\Milica\Desktop\interview\URLShortener\URLShortener.Core.ServiceAdapters.Services\bin\Debug\EntityFramework.xml

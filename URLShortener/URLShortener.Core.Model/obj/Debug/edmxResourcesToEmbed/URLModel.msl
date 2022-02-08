@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="URLShortenerDBModelStoreContainer" CdmEntityContainer="URLShortenerDBEntities">
+    <EntitySetMapping Name="Links">
+      <EntityTypeMapping TypeName="URLShortenerDBModel.Link">
+        <MappingFragment StoreEntitySet="Links">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Link1" ColumnName="Link" />
+          <ScalarProperty Name="ShortLink" ColumnName="ShortLink" />
+          <ScalarProperty Name="Counter" ColumnName="Counter" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserLinks">
+      <EntityTypeMapping TypeName="URLShortenerDBModel.UserLink">
+        <MappingFragment StoreEntitySet="UserLink">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="LinkId" ColumnName="LinkId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="URLShortenerDBModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="URLShortenerDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Link">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Link1" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ShortLink" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Counter" Type="Int32" />
+    <NavigationProperty Name="UserLinks" Relationship="Self.FK_UserLink_Links" FromRole="Links" ToRole="UserLink" />
+  </EntityType>
+  <EntityType Name="UserLink">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" />
+    <Property Name="LinkId" Type="Int32" />
+    <NavigationProperty Name="Link" Relationship="Self.FK_UserLink_Links" FromRole="UserLink" ToRole="Links" />
+    <NavigationProperty Name="User" Relationship="Self.FK_UserLink_Users" FromRole="UserLink" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Email" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="UserLinks" Relationship="Self.FK_UserLink_Users" FromRole="Users" ToRole="UserLink" />
+  </EntityType>
+  <Association Name="FK_UserLink_Links">
+    <End Role="Links" Type="Self.Link" Multiplicity="0..1" />
+    <End Role="UserLink" Type="Self.UserLink" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Links">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserLink">
+        <PropertyRef Name="LinkId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserLink_Users">
+    <End Role="Users" Type="Self.User" Multiplicity="0..1" />
+    <End Role="UserLink" Type="Self.UserLink" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserLink">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="URLShortenerDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Links" EntityType="Self.Link" />
+    <EntitySet Name="UserLinks" EntityType="Self.UserLink" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK_UserLink_Links" Association="Self.FK_UserLink_Links">
+      <End Role="Links" EntitySet="Links" />
+      <End Role="UserLink" EntitySet="UserLinks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserLink_Users" Association="Self.FK_UserLink_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UserLink" EntitySet="UserLinks" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
